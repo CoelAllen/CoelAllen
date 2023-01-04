@@ -6,7 +6,7 @@ After 8 years of restaurant management and running a spirits distributor, I fell
 
 + 💾 **Tech Stacks:** Javascript(Vue.js and currently learning React), C#, .Net Core, MySQL, Node.js, Mongo.db, CSS/Bootstrap, HTML & more.
 
-+ 📝 [Check out my Portfolio Page!](https://coelallen.github.io/react-portfolio/)
++ 📝 [Check out my Portfolio Page!](https://react-tailwind-portfolio-seven.vercel.app/#)
 
 ### Contact
 + 📬 coelallen@gmail.com
