@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-My name is Coel Allen.  I am currently a freelance developer working on several projects.  My background is extremely varied. I have worked in grocery stores and restaurants, been a security guard and a USPS mail handler.  Puzzles and problems solving interest me greatly and the dev world seemed like a perfect fit.  I love seeing into the machinery of a system and learning why it does what it does.
+My name is Coel Allen.  I am currently a freelance developer working on several projects.  Getting here was wuite a journey and I followed an extremely varied career path. I have worked in grocery stores and restaurants, been a security guard and a USPS mail handler, I've made coffee and weighed bolts at a hardware manufacturer.  But none of these fields quite scratched that itch.  
 
-After 8 years of restaurant management and running a spirits distributor, I fell in love with the tech-side of those industries.  This led to me to software development, combining my passions for technology and creative problem solving.
+I spent the last 8 years in restaurant management and running a spirits distributor.  Making menus, updating websites and running spreadsheets made me I fall in love with the tech-side of those industries.  A friend recommended software development, combining my passions for technology and creative problem solving.
+
+Puzzles and logic problems interest me greatly, so the dev world seemed like a perfect fit.  I love seeing into the machinery of a system and learning why it does what it does. Contact me below and let's get cracking!
+
 
 + 💾 **Tech Stacks:** Javascript(Vue.js and currently learning React), C#, .Net Core, MySQL, Node.js, Mongo.db, CSS/Bootstrap, HTML & more.
 
