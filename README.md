@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Coel Allen.  I am currently a freelance developer working on several projects.  Getting here was wuite a journey and I followed an extremely varied career path. I have worked in grocery stores and restaurants, been a security guard and a USPS mail handler, I've made coffee and weighed bolts at a hardware manufacturer.  But none of these fields quite scratched that itch.  
+My name is Coel Allen.  I am currently a freelance developer working on several projects.  Getting here was quite a journey and I followed an extremely varied career path. I have worked in grocery stores and restaurants, been a security guard and a USPS mail handler, I've made coffee and weighed bolts at a hardware manufacturer.  But none of these fields quite scratched that itch.  
 
 I spent the last 8 years in restaurant management and running a spirits distributor.  Making menus, updating websites and running spreadsheets made me I fall in love with the tech-side of those industries.  A friend recommended software development, combining my passions for technology and creative problem solving.
 
