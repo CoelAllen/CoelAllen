@@ -7,7 +7,7 @@ I spent the last 8 years in restaurant management and running a spirits distribu
 Puzzles and logic problems interest me greatly, so the dev world seemed like a perfect fit.  I love seeing into the machinery of a system and learning why it does what it does. Contact me below and let's get cracking!
 
 
-+ 💾 **Tech Stacks:** Flutter, Javascript(Vue.js, React.js and currently learning Angular), AWS, BigQuery, C#, .Net, sql, Node.js, Mongo.db, CSS/Bootstrap/Tailwind, HTML & more.
++ 💾 **Tech Stacks:** Flutter, Vue, React, AWS, BigQuery, PostgreSQL, C#, .Net, sql, Node.js, CSS/Bootstrap/Tailwind, HTML & more.
 
 + 📝 [Check out my Portfolio Page!](https://react-tailwind-portfolio-seven.vercel.app/#)
 
