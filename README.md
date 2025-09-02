@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-My name is Coel Allen.  I am currently a consulting developer working at Hidden Mountain Data.  Getting here was quite a journey and I followed an extremely varied career path. I have worked in grocery stores and restaurants, been a security guard and a USPS mail handler, I've made coffee and weighed bolts at a hardware manufacturer.  But none of these fields quite scratched that itch.  
+My name is Coel Allen. I'm a Software and DevOps Engineer at Always Connect Solutions, where I build full-stack applications and manage cloud infrastructure.
+Previously, I worked as a consulting developer at Hidden Mountain Data, where I gained experience across diverse tech stacks and client environments. My non-traditional path into tech—including years in restaurant management and business operations—gives me a unique perspective on solving real-world business problems through code.
+I specialize in AWS cloud solutions, database optimization, and modern web frameworks. I'm passionate about system architecture, performance optimization, and building scalable solutions. I love diving deep into how systems work and finding elegant solutions to complex problems.
 
-I spent the last 8 years in restaurant management and running a spirits distributor.  Making menus, updating websites and running spreadsheets made me fall in love with the tech-side of those industries.  A friend recommended software development, combining my passions for technology and creative problem solving.
-
-Puzzles and logic problems interest me greatly, so the dev world seemed like a perfect fit.  I love seeing into the machinery of a system and learning why it does what it does. Contact me below and let's get cracking!
-
-
-+ 💾 **Tech Stacks:** Flutter, Vue, React, AWS, BigQuery, PostgreSQL, C#, .Net, sql, Node.js, CSS/Bootstrap/Tailwind, HTML & more.
+💾 Tech Stacks: AWS (Lambda, ECS, RDS, S3), PostgreSQL, Vue.js, Nuxt, TypeScript, Node.js, Terraform, Docker, Tailwind CSS, Prisma
 
 + 📝 [Check out my Portfolio Page!](https://react-tailwind-portfolio-seven.vercel.app/#)
 
